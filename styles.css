@@ -1,0 +1,50 @@
+.opcoes{
+    width: 15px;
+}
+
+.cabecalho{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    padding: 10px;
+}
+
+svg{
+    width: 10px;
+    fill: white;
+}
+
+.mensagemDois{
+    text-align: right;
+   
+}
+.principal{
+    background-color: black;
+    border-radius: 20px;
+    width: 400px;
+}
+.mensagens{
+    color: white;
+    padding: 10px;
+}
+
+.um{
+background-color: rgb(66, 65, 65);
+border-radius: 10px;
+}
+
+.dois{
+    background-color: rgb(66, 65, 65);
+    border-radius: 10px;
+    
+}
+
+.tres{
+    background-color: rgb(52, 70, 52);
+    border-radius: 10px;
+}
+
+.quatro{
+    background-color: rgb(52, 70, 52);
+    border-radius: 10px;
+}
